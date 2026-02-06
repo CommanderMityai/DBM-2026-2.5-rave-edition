@@ -1,0 +1,18 @@
+## Interface: 120000
+## Title: CommanderMityai's DBM Music Pack
+## Notes-ruRU: Кастомная музыка для событий DBM
+## Author: CommanderMityai
+## Version: 0.1488
+## IconTexture: Interface\Addons\DBM-CommanderMityaisMusicPack\icon.png
+
+## Notes: https://github.com/CommanderMityai
+
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+
+## X-DBM-MusicPack: 1
+## X-DBM-MusicPack-GlobalName: DBMMPMusicPack
+
+## Category: DBM
+
+MusicLoadList.lua
