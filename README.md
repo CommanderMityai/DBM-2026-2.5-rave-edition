@@ -11,6 +11,9 @@
 
 <img width="804" height="582" alt="Screenshot_1" src="https://github.com/user-attachments/assets/f8f21b86-213d-4332-8210-00e2eb839673" />
 
+Близзарды убрали 5 аллертов, оставили СРЕДНИЕ и КРИТИЧЕСКИЕ))) Рекомендую следующие настройки, вы вольны выбрать вообще любые.
+<img width="816" height="625" alt="image" src="https://github.com/user-attachments/assets/a9a5436b-4d18-4cd9-85f6-c4503cc6df82" />
+
 Всё
 
 # В чем отличие от версии, которую ты писал в 2021 году?
