@@ -1,0 +1,12 @@
+﻿## Interface: 120000
+## X-Min-Interface: 60000
+## Title: Voicepack ANUKA
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: CommanderMityai
+## Version: 228 
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: Anuka Raz
+## X-DBM-Voice-ShortName: Anuka
+## X-DBM-Voice-Version: 11
+## X-DBM-Voice-HasCount: 1
