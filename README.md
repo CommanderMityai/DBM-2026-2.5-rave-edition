@@ -7,6 +7,8 @@
 # Ладно, как установить?
 Просто скачать зипник, распаковать в папку Interface\AddOns игры. Сделать /reload или полностью перезайти. Желательно еще всякие другие саундпаки подчистить нахуй чтобы они не загружали выборку рандома.
 
+В зипнике есть модуль Sounds.lua, чистящий Sounds.lua по адресу DBM-Core/modules, он удаляет дефолтные звуки игры из пула.
+
 Зайти в DBM, выставить следующие настройки
 
 <img width="804" height="582" alt="Screenshot_1" src="https://github.com/user-attachments/assets/f8f21b86-213d-4332-8210-00e2eb839673" />
@@ -18,6 +20,8 @@
 Тут такое
 
 <img width="762" height="587" alt="image" src="https://github.com/user-attachments/assets/2d265644-4454-4633-99e8-8d48281f85e4" />
+
+
 
 Всё
 
