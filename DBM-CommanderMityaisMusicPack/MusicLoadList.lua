@@ -55,6 +55,7 @@ local musicTable = {
     ["Music_Baka"] = "KM - BAKA",
     ["Music_Bashar"] = "KM - BASHAR",
     ["Music_BassDota"] = "KM - DOTA",
+    ["Music_Beast"] = "KM - BEAST",
     ["Music_Beware"] = "KM - BEWARE",
     ["Music_BigBass"] = "KM - BIGBASS",
     ["Music_Bird"] = "KM - BIRD",
