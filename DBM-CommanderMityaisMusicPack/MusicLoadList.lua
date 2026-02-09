@@ -119,6 +119,7 @@ local musicTable = {
     ["Music_plasticBoss"] = "KM - PLASTICBOSS",
     ["Music_PlohDokosti"] = "KM - PLOH DO KOSTI",
     ["Music_Poigraeeeem"] = "KM - POIGRAEEEEM",
+    ["Music_Pokaji"] = "KM - POKAJI",
     ["Music_Pozvoni"] = "KM - POZVONI",
     ["Music_Prikol"] = "KM - PRIKOL2",
     ["Music_Prokuror"] = "KM - PROKUROR",
