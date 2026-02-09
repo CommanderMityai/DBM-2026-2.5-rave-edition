@@ -107,6 +107,7 @@ local musicTable = {
     ["Music_Neuro1"] = "KM - NEURO1",
     ["Music_Neuro2"] = "KM - NEURO2",
     ["Music_Neuro3"] = "KM - NEURO3",
+    ["Music_NonStop"] = "KM - NonStop",
     ["Music_NFL"] = "KM - NFL",
     ["Music_osvejis"] = "KM - PEPSI",
     ["Music_Paralyzer"] = "KM - PARALYZER",
