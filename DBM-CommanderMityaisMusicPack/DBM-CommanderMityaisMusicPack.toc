@@ -1,8 +1,8 @@
-## Interface: 120000
+## Interface: 120001
 ## Title: CommanderMityai's DBM Music Pack
 ## Notes-ruRU: Кастомная музыка для событий DBM
 ## Author: CommanderMityai
-## Version: 0.1488
+## Version: 1.228
 ## IconTexture: Interface\Addons\DBM-CommanderMityaisMusicPack\icon.png
 
 ## Notes: https://github.com/CommanderMityai
