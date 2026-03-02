@@ -125,6 +125,7 @@ local musicTable = {
     ["Music_Prokuror"] = "KM - PROKUROR",
     ["Music_Push"] = "KM - PUSH",
     ["Music_Rasslabon"] = "KM - RASSLABON",
+    ["Music_Razieb"] = "KM - RAZIEB",
     ["Music_ROD"] = "KM - ROD",
     ["Music_sabre"] = "KM - SABRE",
     ["Music_spanish"] = "KM - SPANISH",
