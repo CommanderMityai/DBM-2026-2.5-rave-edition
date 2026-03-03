@@ -92,6 +92,7 @@ local musicTable = {
     ["Music_ihatemyself"] = "KM - IHATEMYSELF",
     ["Music_JackPot"] = "KM - JACKPOT",
     ["Music_Jeez"] = "KM - JEEZ",
+    ["Music_Jet"] = "KM - JET",
     ["Music_KKK"] = "KM - KKK",
     ["Music_Kon"] = "KM - KON",
     ["Music_Kukla"] = "KM - KYKLA",

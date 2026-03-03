@@ -63,7 +63,11 @@ LSM:Register(MediaType_SOUND, "KAZ_Alert3",			        	[[Interface\Addons\Shared
 LSM:Register(MediaType_SOUND, "KAZ_Alert4",			        	[[Interface\Addons\SharedMedia\Sound\KAZ_Alert4.ogg]])
 LSM:Register(MediaType_SOUND, "KAZ_Alert5",			        	[[Interface\Addons\SharedMedia\Sound\KAZ_Alert5.ogg]])
 LSM:Register(MediaType_SOUND, "KAZ_Timer1",			        	[[Interface\Addons\SharedMedia\Sound\KAZ_Timer1.mp3]])
-LSM:Register(MediaType_SOUND, "KAZ_Timer2loud",			        	[[Interface\Addons\SharedMedia\Sound\KAZ_Timer2loud.mp3]])
+LSM:Register(MediaType_SOUND, "KAZ_Timer2loud",			        [[Interface\Addons\SharedMedia\Sound\KAZ_Timer2loud.mp3]])
+LSM:Register(MediaType_SOUND, "KAZ_SilverChest",			    [[Interface\Addons\SharedMedia\Sound\KAZ_SilverChest.mp3]])
+LSM:Register(MediaType_SOUND, "KAZ_SilverGroup",			    [[Interface\Addons\SharedMedia\Sound\KAZ_SilverGroup.mp3]])
+LSM:Register(MediaType_SOUND, "KAZ_SilverRegular",			    [[Interface\Addons\SharedMedia\Sound\KAZ_SilverRegular.mp3]])
+LSM:Register(MediaType_SOUND, "KAZ_SilverMount",			    [[Interface\Addons\SharedMedia\Sound\KAZ_SilverMount.mp3]])
 -- ----- 
 --   STATUSBAR
 -- -----
