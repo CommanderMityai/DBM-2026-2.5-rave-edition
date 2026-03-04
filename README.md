@@ -22,8 +22,11 @@
 
 <img width="762" height="587" alt="image" src="https://github.com/user-attachments/assets/2d265644-4454-4633-99e8-8d48281f85e4" />
 
-
 Всё
+
+Если стоит SilverDragon, в sharedmedia есть файлы для него
+<img width="719" height="635" alt="image" src="https://github.com/user-attachments/assets/8c2f8e08-53f6-4ad8-9789-9b34f20129bc" />
+
 
 !ЕСЛИ! У вас остались дефолтные звуки из игры в настройках - заново прокиньте из зипника модуль Sounds.lua по адресу interface/addons/DBM-Core/Modules
 
