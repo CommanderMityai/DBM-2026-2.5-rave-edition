@@ -88,6 +88,7 @@ local musicTable = {
     ["Music_funny"] = "KM - FUNNY",
     ["Music_Green"] = "KM - GREEN",
     ["Music_HotAgartha"] = "KM - HOTPLUS",
+    ["Music_HYLE"] = "KM - HYLE",
     ["Music_Hz"] = "KM - HZ",
     ["Music_ihatemyself"] = "KM - IHATEMYSELF",
     ["Music_JackPot"] = "KM - JACKPOT",
