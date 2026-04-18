@@ -1,4 +1,4 @@
-## Interface: 120001
+## Interface: 120001, 120005
 ## Title: CommanderMityai's DBM Music Pack
 ## Notes-ruRU: Кастомная музыка для событий DBM
 ## Author: CommanderMityai
